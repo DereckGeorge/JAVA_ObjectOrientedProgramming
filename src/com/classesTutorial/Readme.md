@@ -13,7 +13,7 @@ Thats when constructors comes into play, with constructors you can give values t
 And an important thing to note is that a class can have as many cars as you want with the same attributes but different values.
 
 # METHODS 
-Methods in Java are just functions inside a class. Functions are block of codes that perfom a certain action and they are usefull
+Methods in Java are just functions inside a class. Functions are block of codes that perfom a certain action and they are useful
 in minimizing or avoiding repetition of code.
 Now let us look on some examples of functions that a car can have
 **Starting the car function**- This is essential in a car as it is needed to be started for it to work. You insert the key and the car starts.
@@ -28,3 +28,22 @@ The methods can be called anywhere in the code and they can perfom the action th
 Objects are the types of different cars which will be inside of that car class
 In Java you can create as many objects as you want with different values.
 In the Car demo code, there are two objects, mycar and friend car both using the car class but of different make, model, year and fuel level.
+
+
+# **SWAHILI TRANSLATION**
+Kiufupi class ni kama kikundi cha vitu ambavyo naweza nikasema kama tabia au characteristics zinazofanana.
+Mfano mzuri tuchukulie magari, magari yapo ya aina nyingi upande wa majina, mtengenezaji, mwaka na leel ya mafuta.
+hivyo ni baadhi ya vitu ambavyo magari yana share, kila gari lazima liwe na hivyo vitu.
+
+Hivyo vitu sasa ambavyo magari yana share kwenye Java vinajulikana kama attributes.
+Na sio tu magari bali vitu vingi kama wanafunzi wanaweza kuwa na attributes za majina, miaka, regstration number etc.
+Hayo ndio maelezo mafupi ya class kwenye programming language ya Java.
+
+# CONSTRUCTORS
+Kama nilivyosema mwanzo kwamba class ina attributes na hizo attributes mpaka sasa hazina values. Yani ni kwamba mfano kwenye attribute ya model haina value kama je ni toyota?, ni Volvo, ni Ist? kitu kama hicho.
+Sasa ili uweze kuzipa values hizo attributes lazima uwe na kitu kinachoitwa constructor.
+Constructor inakusaidia kuzipa values hizo attributes na bila constructor hauwezi kuzipa values hizo attributes.
+
+# METHODS 
+
+
