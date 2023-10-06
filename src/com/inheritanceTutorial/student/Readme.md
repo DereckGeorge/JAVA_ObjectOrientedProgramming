@@ -1,4 +1,4 @@
-##Java Inheritance Demo - BIT Course Representatives
+## Java Inheritance Demo - BIT Course Representatives
 
 This Java program demonstrates the concept of inheritance using a BIT (Bachelor of Information Technology) course example. We have two class representatives: a boy named Derek and a girl named Jackie.
 Class Hierarchy
@@ -13,21 +13,21 @@ The Student class contains common properties and methods for all students:
     studentID: The unique student identification.
     introduce(): A common method to introduce the student.
 
-Boy Class (Subclass)
+## Boy Class (Subclass)
 
 The Boy class is a subclass of Student and includes an additional property:
 
     favoriteSport: The favorite sport of the boy.
     playSport(): A method specific to boys for expressing their love for a particular sport.
 
-Girl Class (Subclass)
+## Girl Class (Subclass)
 
 The Girl class is another subclass of Student and includes an additional property:
 
     favoriteSubject: The favorite subject of the girl.
     study(): A method specific to girls for discussing their favorite subject.
 
-Usage
+## Usage
 
 In the InheritanceDemo class, we demonstrate the inheritance concept:
 
